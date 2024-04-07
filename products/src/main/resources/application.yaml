@@ -1,0 +1,5 @@
+amazon:
+  dynamodb.endpoint: https://dynamodb.us-east-1.amazonaws.com
+server.port: 9090
+logging.level:
+  pe.awscommunityperu.product: debug
